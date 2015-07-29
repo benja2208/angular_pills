@@ -3,3 +3,4 @@ def palindrome (words)
 	return false if words.slice!(0) != words.slice!(-1)
 	palindrome(words)
 end 
+
