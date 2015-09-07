@@ -1,0 +1,19 @@
+{
+  "name": "github",
+  "version": "0.0.0",
+  "homepage": "http://github.com/benja2208/github",
+  "authors": [
+    "Benjamina Bollag <benjamina.bollag12@imperial.ac.uk>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
